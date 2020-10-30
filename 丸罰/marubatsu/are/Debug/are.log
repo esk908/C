@@ -1,0 +1,3 @@
+﻿  marubatsu.c
+C:\Users\PC-72\source\repos\are\are\marubatsu.c(45,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\PC-72\source\repos\are\are\marubatsu.c(48,9): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
